@@ -1,6 +1,6 @@
 # Confidence Aware Ensemble Knowledge Distillation
 
-This repository contains the code for our Advanced Machine Learning final project on Confidence Aware Ensemble Knowledge Distillation. The project demonstrates how to transfer knowledge from multiple large teacher models to a lightweight student model, thereby achieving improved performance on resource-constrained devices.
+This repository contains the code for our Advanced Machine Learning final project on Confidence Aware Ensemble Knowledge Distillation. The project demonstrates how to transfer knowledge from multiple large teacher models to a lightweight student model, thereby achieving improved performance on resource-constrained devices. Here is the link for our project in [google colab](https://colab.research.google.com/drive/1-AGZT_O0GXv2tCBevjsHtVi0SWm422eZ?usp=sharing), as well as the same jupyter notebook above.
 
 ## Overview
 
